@@ -1,0 +1,21 @@
+# GitHub code search (also built into discover-github)
+filename:SECURITY.md "bug bounty"
+"bug bounty" "smart contract"
+"bug bounty" blockchain
+"responsible disclosure" "bug bounty" crypto
+site:github.com "bug bounty" "smart contract" "SECURITY.md"
+site:github.com "bug bounty" blockchain "responsible disclosure"
+
+# Search engines: run manually, review each result, then import-file the URLs.
+site:*/security "bug bounty" "smart contract"
+inurl:bug-bounty "smart contract"
+inurl:bugbounty blockchain
+site:github.com "bug bounty" "SECURITY.md" blockchain
+"bug bounty" "immunefi" "smart contract"
+"responsible disclosure" "bug bounty" "DeFi"
+site:docs.* "bug bounty" "smart contract"
+site:*.xyz "bug bounty" blockchain
+site:*.finance "bug bounty" "smart contract"
+inurl:.well-known/security.txt blockchain
+inurl:.well-known/security.txt crypto
+inurl:.well-known/security.txt "bug bounty"

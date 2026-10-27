@@ -1,0 +1,40 @@
+{
+  "programs": 519,
+  "active": 167,
+  "review": 281,
+  "with_smart_contract_scope": 180,
+  "with_rewards": 227,
+  "by_status": {
+    "active": 167,
+    "closed": 62,
+    "paused": 8,
+    "unknown": 282
+  },
+  "by_safe_harbor": {
+    "not_stated": 222,
+    "stated": 15,
+    "unknown": 282
+  },
+  "by_category": {
+    "Bridge": 39,
+    "DAO": 24,
+    "DeFi": 88,
+    "Infrastructure": 22,
+    "L1": 51,
+    "L2": 11,
+    "NFT": 10,
+    "Unknown": 237,
+    "Wallet": 37
+  },
+  "by_source": {
+    "diodb": 19,
+    "github_search": 283,
+    "immunefi": 220,
+    "web3_collection": 11
+  },
+  "events": 519,
+  "snapshots": 536,
+  "fetches": 25,
+  "successful_fetches": 17,
+  "generated_at": "2026-10-27T03:08:56+00:00"
+}
